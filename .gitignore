@@ -1,5 +1,6 @@
 # custom project things
 env/
+venv/
 **/migrations/
 
 # Byte-compiled / optimized / DLL files
